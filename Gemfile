@@ -1,0 +1,9 @@
+source "https://rubygems.org"
+ruby '2.5.1'
+gem 'rubocop',
+gem 'pry'
+gem 'twitter'
+gem 'dotenv'
+gem 'nokogiri',
+gem 'rest-client',
+gem 'colorize'
